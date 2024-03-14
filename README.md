@@ -4,8 +4,6 @@
 
 Este repositório foi criado como conteúdo adicional para a aula [**VMs na AWS e na Azure no mesmo código do Terraform**](https://www.udemy.com/course/terraform-do-basico-ao-avancado/learn/lecture/30872180#overview) do curso [**Terraform - Básico ao Avançado**](https://www.udemy.com/course/terraform-do-basico-ao-avancado/?couponCode=TERRAFORM_FEV24), por Daniel Gil.
 
-## Documentação Usada na Aula
-
 ### AWS Terraform Provider
 
 - [AWS Terraform Provider](https://registry.terraform.io/providers/hashicorp/aws/latest/docs)
