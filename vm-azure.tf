@@ -1,6 +1,6 @@
 resource "azurerm_resource_group" "rg" {
-  name     = "rg-vm"
-  location = "West Europe"
+  name     = "rg-vm-pipeline"
+  location = "East US"
 
   tags = local.common_tags
 }
